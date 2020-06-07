@@ -1,0 +1,7 @@
+version: "3"
+services:
+  php74:
+    build: "../"
+    container_name: "php74"
+    volumes:
+      - ../:/home/circleci/php-parser-combination

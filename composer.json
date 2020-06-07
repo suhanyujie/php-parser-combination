@@ -1,0 +1,16 @@
+{
+    "name": "suhanyujie/php-parser-combination",
+    "description": "PHP 实现的解析器组合子",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    },
+    "authors": [
+        {
+            "name": "suhanyujie",
+            "email": "suhanyujie@qq.com"
+        }
+    ]
+}
